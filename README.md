@@ -2,7 +2,7 @@
 ![amazona](/template/images/amazona.jpg)
 
 
-## You Will Learn
+## used
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
 - React: Components, Props, Events, Hooks, Router, Axios
