@@ -18,7 +18,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
+$ git clone https://github.com/MAYANKKAUSHIK01/Ecomerce-Website.git
 $ cd amazona
 ```
 
